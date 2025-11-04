@@ -444,4 +444,8 @@ def close_db():
 
 #! --> Run App <--
 if __name__ == "__main__":
-    socketio.run(app, host="0.0.0.0", port=5000, debug=True)
+    import eventlet
+    import eventlet.wsgi
+
+    # Set host to 0.0.0.0 and use port 10000 (or 5000, Render maps automatically)
+    socketio.run(app, host="0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=False)
