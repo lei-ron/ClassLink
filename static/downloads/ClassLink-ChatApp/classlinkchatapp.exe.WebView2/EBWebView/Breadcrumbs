@@ -1,0 +1,79 @@
+0:01:40 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:01:40 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:01:40 Tab1 PageLoad
+0:01:40 Tab1 StartNav15 #renderer-user #link
+0:01:40 Tab1 FinishNav15
+0:01:40 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:01:40 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:01:40 Tab1 PageLoad
+0:01:41 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:01:42 Tab1 StartNav16 #renderer-user #link
+0:01:42 Tab1 FinishNav16
+0:01:42 Tab1 PageLoad
+0:01:43 Tab1 StartNav17 #renderer-user #link
+0:01:43 Tab1 FinishNav17
+0:01:43 Tab1 PageLoad
+0:01:45 Tab1 StartNav18 #renderer-user #link
+0:01:45 Tab1 FinishNav18
+0:01:45 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:01:45 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:01:45 Tab1 PageLoad
+0:01:45 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:01:55 Widget Closed: StatusBubble
+0:01:59 Tab1 StartNav19 #renderer-user #link
+0:01:59 Tab1 FinishNav19
+0:01:59 Tab1 PageLoad
+0:02:00 Tab1 StartNav20 #renderer-user #link
+0:02:00 Tab1 FinishNav20
+0:02:00 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:00 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:00 Tab1 PageLoad
+0:02:00 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:07 Tab1 StartNav21 #renderer-user #link
+0:02:07 Tab1 FinishNav21
+0:02:07 Tab1 PageLoad
+0:02:17 Widget Closed: StatusBubble
+0:02:18 Tab1 StartNav22 #renderer-user #link
+0:02:18 Tab1 FinishNav22
+0:02:18 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:18 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:18 Tab1 PageLoad
+0:02:19 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:20 Tab1 StartNav23 #renderer-user #link
+0:02:20 Tab1 FinishNav23
+0:02:20 Tab1 PageLoad
+0:02:22 Tab1 StartNav24 #renderer-user #link
+0:02:22 Tab1 FinishNav24
+0:02:22 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:22 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:22 Tab1 PageLoad
+0:02:22 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:23 Tab1 StartNav25 #renderer-user #link
+0:02:23 Tab1 FinishNav25
+0:02:23 Tab1 PageLoad
+0:02:32 Tab1 StartNav26 #renderer-user #link
+0:02:32 Tab1 FinishNav26
+0:02:32 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:32 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:32 Tab1 PageLoad
+0:02:32 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:33 Tab1 StartNav27 #renderer-user #link
+0:02:33 Tab1 FinishNav27
+0:02:33 Tab1 PageLoad
+0:02:37 Tab1 StartNav28 #renderer-user #link
+0:02:37 Tab1 FinishNav28
+0:02:37 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:37 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:37 Tab1 PageLoad
+0:02:38 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:02:47 Widget Closed: StatusBubble
+0:02:58 Tab1 StartNav29 #renderer-user #link
+0:02:58 Tab1 FinishNav29
+0:02:58 Tab1 PageLoad
+0:03:01 Tab1 StartNav30 #renderer-user #link
+0:03:01 Tab1 FinishNav30
+0:03:01 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:03:01 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:03:01 Tab1 PageLoad
+0:03:02 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:03:03 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
