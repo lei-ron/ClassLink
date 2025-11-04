@@ -22,7 +22,7 @@ socketio = SocketIO(app)
 
 #! --> MongoDB Connection <--
 
-client = MongoClient("mongodb://localhost:27017/")
+client = MongoClient(os.environ.get("MONGO_URI"))
 db = client["chat_app"]
 users = db["users"]
 messages = db["messages"]
