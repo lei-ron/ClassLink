@@ -3,6 +3,7 @@ from flask_socketio import SocketIO, send, join_room, leave_room
 from pymongo import MongoClient
 import bcrypt
 import atexit
+import os
 from gpt4all import GPT4All
 
 
