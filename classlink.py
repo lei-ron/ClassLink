@@ -18,7 +18,7 @@ gpt_model = GPT4All(
 
 app = Flask(__name__)
 app.secret_key = "lei123"
-socketio = SocketIO(app)
+socketio = SocketIO(app, async_mode="eventlet")
 
 
 #! --> MongoDB Connection <--
